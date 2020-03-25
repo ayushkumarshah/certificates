@@ -5,3 +5,4 @@ Collection of online certificates
 |---|---|---|---|---|
 |1|AWS Innovate Online Conference - AI/ML Edition : Certificate of Attendance|AWS|Feb 19, 2020|[View Certificate](https://drive.google.com/open?id=1tIMKDhCth63rFkicrPAUu0vQA3Zudx4C)|
 |2|Pandas Foundation|DataCamp|March 14, 2020|[View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/cbfa5d9e55822bb0766ab866a4dde1c79e7509fa)|
+|3|Software Engineering for Data Scientists in Python|DataCamp|March 25, 2020|[View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/57f6c72aa989430f77a1b66c081dc40ca7cb8d03)|
