@@ -1,5 +1,5 @@
 # Certificates
-Collection of online certificates
+A list of certificates that I received on completing various online courses.
 
 |S.No.|Name of Course/Conference|Offered by|Date of Completion|Certificate|
 |---|---|---|---|---|
